@@ -30,40 +30,11 @@ Passionate about building responsive web applications and solving real-world pro
 
 ## 🚀 Tech Stack
 
-### Frontend
+<p align="center">
 
-- Angular
-- React
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,mongodb,mysql,java,js,ts,html,css,tailwind,bootstrap,git,github,vscode,postman,wordpress" />
 
-### Backend
-
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
-- MySQL
-
-### Languages
-
-- Java
-- JavaScript
-- TypeScript
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- WordPress
+</p>
 
 ---
 
