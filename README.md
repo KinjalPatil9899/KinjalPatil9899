@@ -15,6 +15,20 @@ Full Stack Developer | Angular | React | Node.js | Java | WordPress
 </h3>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/kinjal-pawar-876b32198/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-kinjal-pawar.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:kinjalpatil9899@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
 Passionate about building responsive web applications and solving real-world problems through clean and efficient code.
 </p>
 
@@ -30,24 +44,6 @@ Passionate about building responsive web applications and solving real-world pro
 
 ---
 
-## 🌐 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/kinjal-pawar-876b32198/
-- 🌐 Portfolio: https://portfolio-kinjal-pawar.netlify.app/
-- 📧 Email: kinjalpatil9899@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KinjalPatil9899&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinjalPatil9899&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -61,14 +57,6 @@ Passionate about building responsive web applications and solving real-world pro
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KinjalPatil9899&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KinjalPatil9899&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
